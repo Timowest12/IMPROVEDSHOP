@@ -1,0 +1,2 @@
+# IMPROVEDSHOP
+The old MERN-ECOMMERCE site is fished by the end of the cousrse, and altough it's still pretty good(Brad did a great job) but some technical issues arrise.The site is not competely done, I'ts not at all seo optomalized,it'only uses paypal as ist payment method while i would love to see stripe,Crypto and Mollie(europeans biggest payment provider) s there should also be a goof efficient shippingand communications  process 
